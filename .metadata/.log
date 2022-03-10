@@ -308,3 +308,15 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-09 16:27:01.708
 !MESSAGE executing callback sts4.classpath.KPoifuhf SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-09 16:35:11.350
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KPoifuhf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-09 16:35:11.351
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.KPoifuhf
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-09 16:35:11.351
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-09 16:35:11.352
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KPoifuhf => OK
